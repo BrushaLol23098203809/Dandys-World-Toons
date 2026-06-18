@@ -10,6 +10,10 @@ Background Color
 background-color: rgb(255, 255, 255);
 **CSS**
 background-color: #ffffff;
+Background upper & lower
+128,128,128
+84,84,84
+
 
 
 
