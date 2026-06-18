@@ -1,0 +1,15 @@
+DWTM color setting file
+Change only number. An excessive new-line or delete line causes an error.
+Number is order red,green,blue, and is the range of 0 to 255.
+
+character color
+255,255,255
+
+Background Color
+**CSS**
+background-color: rgb(255, 255, 255);
+**CSS**
+background-color: #ffffff;
+
+
+
