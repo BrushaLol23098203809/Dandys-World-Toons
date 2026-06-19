@@ -1,0 +1,6 @@
+To change or swap emotes (animations) on a rigged character in Dandy's World Toons Maker, you will use keyframes on the app's timeline. Because emotes are fundamentally full-body or facial animations, you swap them by applying new animations to the character's bone rig or face mesh controllers.
+Visit Tutorial Another App here!
+           ↓↓↓
+1. https://www.youtube.com/shorts/0PwlZGz_BZQ
+2. https://www.youtube.com/watch?v=CsxNdQS2udY
+3. https://www.youtube.com/shorts/yIfMvprfW74
