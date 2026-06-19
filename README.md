@@ -1,4 +1,4 @@
-# Dandy's World Toons
+# Dandy's World Toons Maker
 Dandy's World Toons Maker (or Dandy's World OC Maker) is a term referring to online tools, templates, and platforms that help the gaming community create original characters (OCs) in the classic cartoon style of the popular survival horror game Dandy's World on Roblox.
 
 Because Dandy’s World has such a distinct, vintage 1930s rubber-hose animation style (reminiscent of Cuphead or Bendy and the Ink Machine), making your own "Toon" OC (Original Character) is incredibly popular.
