@@ -10,7 +10,28 @@ Background upper & lower
 84,84,84
 
 Head Size
+1,5 
+bone/frame manipulation upper & lower
+90,50,50
+40,20,20
 
+frame manipulation upper & lower
+70,70,70
+20,20,20
 
+Interpolation curve upper & lower
+70,70,70
+20,20,20
 
+model manipulation upper & lower
+100,50,50
+40,20,20
+
+camera, bone manipulation upper & lower
+50,50,100
+20,20,30
+
+light, facial manipulation upper & lower
+50,100,50
+20,30,20
 
