@@ -1,0 +1,5 @@
+Adding music to a 3D model depends on your goal: embedding audio for the web, syncing music to a 3D animation, or baking sound to visual elements. Use software-specific workflows to attach your audio file (preferably a .WAV or .MP3) to your model or scene.
+For a comprehensive visual guide on integrating audio into your scenes, check out this tutorial:
+https://www.youtube.com/watch?v=Ds2QJryBf84&t=0s
+https://www.youtube.com/watch?v=-dWbs9zv2A8
+https://www.youtube.com/watch?v=JyyGImdvaFg&t=0s
