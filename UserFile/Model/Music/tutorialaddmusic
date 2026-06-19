@@ -1,0 +1,35 @@
+Adding music to a 3D model depends on your goal: whether you are rendering an animated music video, creating an interactive scene, or making an audio-reactive visualizer.
+Follow these step-by-step methods for the three most common workflows:
+## 1. For Video Rendering (Animated Models)
+If you are animating your 3D model in software like Blender, you can bake music into your video render. [1] 
+
+* In Blender: Go to the Video Sequencer or Graph Editor. Under the Sound menu, click Open and select your .mp3 or .wav file. You can then bake sound to the F-Curves to make parts of your model react to the beat. When exporting, ensure the Audio option is checked in your Render Output settings.
+* In Adobe Animate: Use File > Import > Import to Stage to bring in your audio file, then drag and drop it onto your timeline to sync with your models. [2, 3, 4, 5, 6] 
+
+## 2. For Interactive 3D Platforms (Web & Game Engines)
+If you want users to hear music when interacting with or walking around your 3D model in a web browser or video game:
+
+* Sketchfab: Use the [Sketchfab Viewer API](https://sketchfab.com/blogs/community/how-to-add-sound-to-your-models-with-the-sketchfab-viewer-api/) to programmatically attach and control audio sources that play when viewers interact with your 3D model. [7, 8] 
+* Game Engines (Unreal / Unity): Import your audio file (preferably a .wav file for best performance) into the engine's asset folder. Create a Spatial Audio Source and attach it to your 3D model or a specific object within your scene so that the music pans and drops off based on the camera's distance from the model. [9, 10, 11, 12] 
+
+## 3. For Virtual Tours & Showcases
+If you are embedding a 3D model into a virtual tour or architectural showcase:
+
+* BioDigital / Kroscloud: Edit your model on the platform and locate the Information panel or Points of Interest (POI). Use the attach audio or Audio block features to upload background music or voiceovers that trigger when users click into the model. [13, 14] 
+
+If you could tell me what software you are using (e.g., Blender, Unity, Sketchfab) and what you want the music to do (e.g., play in the background, sync to an animation), I can give you the exact step-by-step instructions.
+
+[1] [https://www.youtube.com](https://www.youtube.com/watch?v=sbOOvcOehwA)
+[2] [https://www.youtube.com](https://www.youtube.com/watch?v=SD62YJ6u9KM)
+[3] [https://www.youtube.com](https://www.youtube.com/watch?v=NqHFq5gStck)
+[4] [https://helpx.adobe.com](https://helpx.adobe.com/animate/using/using-sounds.html)
+[5] [https://www.artstation.com](https://www.artstation.com/marketplace/p/Jw6ek/free-music-visualizer-for-blender)
+[6] [https://medium.com](https://medium.com/@uxgayatri/tips-and-techniques-for-animation-and-design-e133ece2ef81)
+[7] [https://sketchfab.com](https://sketchfab.com/blogs/community/how-to-add-sound-to-your-models-with-the-sketchfab-viewer-api/)
+[8] [https://sketchfab.com](https://sketchfab.com/blogs/community/how-to-add-sound-to-your-models-with-the-sketchfab-viewer-api/)
+[9] [https://www.facebook.com](https://www.facebook.com/groups/1000038303359383/posts/6008932769136553/)
+[10] [https://www.youtube.com](https://www.youtube.com/watch?v=N3lw_BgdKMo)
+[11] [https://www.createwithswift.com](https://www.createwithswift.com/adding-spatial-audio-to-an-entity-with-realitykit/)
+[12] [https://developers.meta.com](https://developers.meta.com/horizon/documentation/spatial-sdk/spatial-sdk-audio/)
+[13] [https://www.kroscloud.com](https://www.kroscloud.com/how-to-add-audio-narration)
+[14] [https://support.biodigital.com](https://support.biodigital.com/hc/en-us/articles/13617112247319-Add-audio-to-a-model)
