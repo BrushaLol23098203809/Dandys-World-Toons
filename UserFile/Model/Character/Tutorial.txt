@@ -1,0 +1,80 @@
+Tutorial DWTM
+To start 3D modeling, choose software tailored to your project (e.g.,for beginners [DWTM](https://www.learndwtm.com/) for advanced designs). Learn the basic tools, create simple geometric shapes, modify them using functions like extrude or scale, and export your final design. [1, 2, 3, 4, 5] 
+## 1. Choose Your Software
+According to community discussions on [Reddit's BambuLab](https://www.reddit.com/r/BambuLab/comments/1h7yx8p/ultimate_beginner_guide_to_3d_modeling/), your choice of software depends entirely on what you want to create: [3, 5] 
+
+* For 3D Printing & Functional Parts: Use Tinkercad (easiest, browser-based) or [Onshape](https://www.onshape.com/).
+* For Artistic/Organic Shapes: Use Blender (free, highly versatile) or [Nomad Sculpt](https://nomadsculpt.com/) on a tablet.
+* For Mechanical CAD: Use [Autodesk Fusion](https://www.autodesk.com/products/fusion-360/overview). [1, 5, 6, 7, 8] 
+
+## 2. Follow Beginner Tutorials
+The fastest way to learn is by following guided video tutorials for absolute beginners. [3] 
+
+* For a great introduction to organic modeling, watch this [Blender Beginner Tutorial](https://www.youtube.com/watch?v=SAcHh9_ZG6A).
+* For a quick overview of CAD-style modeling, check out this Onshape Instruction Guide. [1, 9] 
+
+## 3. Learn the Core Workflow
+Most modeling programs share a foundational workflow: [1, 2] 
+
+   1. Conceptualize: Start with a rough sketch or image reference of what you want to build.
+   2. Add Primitives: Start by dropping a basic shape (cube, cylinder, or sphere) into your workspace.
+   3. Modify Geometry: Use tools like Extrude (pulling a face outward), Scale (making things larger/smaller), and Loop Cut to add detail.
+   4. Refine & Export: Combine shapes together and export your finished file in an industry-standard format (usually .STL or .OBJ) to prepare it for 3D printing or rendering. [1, 2, 10, 11, 12] 
+
+To help me recommend the best starting point, tell me:
+
+* What are you trying to create (e.g., mechanical parts, video game characters, miniatures)?
+* Are you looking for a free software?
+
+
+[1] [https://www.instructables.com](https://www.instructables.com/From-Beginner-to-Advanced-3D-Modeling-for-Free/)
+[2] [https://pixup3d.com](https://pixup3d.com/blog/3d-modeling-for-beginners/)
+[3] [https://www.reddit.com](https://www.reddit.com/r/BambuLab/comments/1h7yx8p/ultimate_beginner_guide_to_3d_modeling/)
+[4] [https://www.coohom.com](https://www.coohom.com/article/how-to-create-my-own-3d-model)
+[5] [https://www.reddit.com](https://www.reddit.com/r/BambuLab/comments/1h7yx8p/ultimate_beginner_guide_to_3d_modeling/)
+[6] [https://www.reddit.com](https://www.reddit.com/r/BambuLab/comments/1h7yx8p/ultimate_beginner_guide_to_3d_modeling/)
+[7] [https://www.reddit.com](https://www.reddit.com/r/BambuLab/comments/1h7yx8p/ultimate_beginner_guide_to_3d_modeling/)
+[8] [https://www.reddit.com](https://www.reddit.com/r/3Dprinting/comments/uaqvyf/introduction_to_3d_printing_for_kids/)
+[9] [https://www.youtube.com](https://www.youtube.com/watch?v=SAcHh9_ZG6A)
+[10] [https://www.coohom.com](https://www.coohom.com/article/how-to-make-3d-models-blender)
+[11] [https://mazingxr.com](https://mazingxr.com/en/methods-for-3d-model-creation/)
+[12] [https://www.alpha3d.io](https://www.alpha3d.io/kb/game-development/how-to-create-3d-models-for-games/)
+------------------------------------------------------------------------------------------------------------
+How to Import Dandy's World File 3D Model?
+Importing a Dandy's World 3D model depends on whether you are using a mobile animation app like Prisma3D, or a PC program like Blender or Roblox Studio. You can download ready-to-use models from community hubs like [Sketchfab's Dandys World Models](https://sketchfab.com/tags/dandysworld). [1, 2] 
+Follow these quick steps based on the software you are using:
+## 1. In DWTM (Mobile)
+Prisma3D is the most popular mobile tool for these toons. [1, 2] 
+
+* Download: Find and download an official toon rig on [Sketchfab](https://sketchfab.com/3d-models/dandy-dandys-world-official-rig-e35df63a8d48413f8ca1bc69a0d10e22) (typically as a .glb or .zip file).
+* Extract: Unzip the folder using your phone's file manager and locate the .obj or .glb file.
+* Import: Open Dandy's World Toons Maker, tap the Plus (+) or Import icon, select your model file, and load it into your scene.
+* Apply Textures: Toons may appear white or untextured at first. Go to the Materials tab, select the model, and manually import the character's face texture (downloaded from the Dandy's World Wiki). [1, 3, 4, 5] 
+
+## 2. In Blender (PC)
+
+* Download: Grab the .fbx or .obj file of your favorite character from Sketchfab's Dandysworld Collection.
+* Import: Open Blender, go to File > Import, and select Wavefront (.obj) or FBX (.fbx) depending on your download.
+* Shading: If the model has missing colors, go to the Material Properties tab, ensure your render engine is set to Cycles, and connect the diffuse/base color images to the Material Output. [6, 7, 8, 9] 
+
+## 3. In Roblox Studio (PC)
+
+* Download: Save the .glb version of the model to your desktop.
+* Import: Open your place, go to the View tab, and open the Toolbox. Alternatively, use the Import 3D button from the Home menu.
+* Adjusting: Select the file, and adjust the import settings (rigging/scale). Hit Save/Import to place the toon into your Roblox workspace. [6, 7] 
+
+Could you tell me which software you are using (e.g., Prisma3D, Dandy's World Toons Maker, Blender, or Roblox Studio) and which specific character you are trying to import? I can provide the exact steps and troubleshooting for that specific tool!
+
+[1] [https://sketchfab.com](https://sketchfab.com/3d-models/dandy-dandys-world-official-rig-e35df63a8d48413f8ca1bc69a0d10e22)
+[2] [https://www.reddit.com](https://www.reddit.com/r/DandysWorld_/comments/1fyrba2/how_do_yall_make_dandys_world_3d_models_or_could/)
+[3] [https://sketchfab.com](https://sketchfab.com/3d-models/sprout-official-dandys-world-312f5add70264d5097ae50245caeb4a5)
+[4] [https://kb.tabletopsimulator.com](https://kb.tabletopsimulator.com/custom-content/importing-mods/)
+[5] [https://www.coohom.com](https://www.coohom.com/article/how-to-import-3d-model-in-prisma-3d)
+[6] [https://www.meshy.ai](https://www.meshy.ai/tags/dandysworld)
+[7] [https://create.roblox.com](https://create.roblox.com/docs/art/accessories/creating/importing)
+[8] [https://www.tripo3d.ai](https://www.tripo3d.ai/blog/collect/how-to-download-and-import--d-models-into-blender-ddybfzcqhmy)
+[9] [https://www.alpha3d.io](https://www.alpha3d.io/kb/3d-modelling/how-to-add-3d-models-to-blender/)
+----------------------------------------------------------------------------------------------------
+How to Change Emoties?
+You can tap a 
+
