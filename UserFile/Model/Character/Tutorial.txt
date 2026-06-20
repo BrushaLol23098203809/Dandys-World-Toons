@@ -76,5 +76,5 @@ Could you tell me which software you are using (e.g., Prisma3D, Dandy's World To
 [9] [https://www.alpha3d.io](https://www.alpha3d.io/kb/3d-modelling/how-to-add-3d-models-to-blender/)
 ----------------------------------------------------------------------------------------------------
 How to Change Emoties?
-You can tap a 
+You can tap a "Emoties" and you can Change Emoties in 3D Model Character
 
