@@ -11,6 +11,7 @@ Background upper & lower
 
 Head Size
 1,5 
+
 bone/frame manipulation upper & lower
 100,50,50
 40,20,20
