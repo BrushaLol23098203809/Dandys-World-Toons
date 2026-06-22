@@ -1,0 +1,9 @@
+app:
+  name: "Dandy's World Toons Maker"
+  port: 8080
+  debug_mode: true
+
+database:
+  host: "DWTM"
+  user: "Made by me"
+  password: "secure_password"
