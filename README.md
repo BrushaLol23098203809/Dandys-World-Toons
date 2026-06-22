@@ -65,7 +65,7 @@ The developers frequently push out new content and limited-time updates. Some of
 
 * **New Interaction Mechanics:** The introduction of co-op/multiplayer machine types.
 * **Lobby Minigames:** A playable "DWTM" arcade cabinet in the Game 3D.
-* **Finn Overhaul:** A total rework for Twisted Finn, fresh event quests, and exclusive cosmetics.
+* **Finn Overhaul:** A total rework for Toons, fresh event quests, and exclusive cosmetics.
 * **Dandy's Buds:** A revamped tutorial system paired with new badges to help ease new players into the game's mechanics.
 
 * Visit Website: (https://sites.google.com/view/learndwtm/)
