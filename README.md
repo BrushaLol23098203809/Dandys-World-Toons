@@ -68,7 +68,7 @@ The developers frequently push out new content and limited-time updates. Some of
 * **Finn Overhaul:** A total rework for Twisted Finn, fresh Finn-themed event quests, and exclusive cosmetics.
 * **Dandy's Buds:** A revamped tutorial system paired with new badges to help ease new players into the game's mechanics.
 
-* Visit Website: https://www.learndwtm.com
+* Visit Website: (https://sites.google.com/view/learndwtm/)
 * It is not necessary to apply me for the report and permission when the image or animation produced with this tool are opened to the public.
 
 DISCLAIMER
