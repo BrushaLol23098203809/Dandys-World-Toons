@@ -9,3 +9,7 @@ You can tap a "Emoties"
 Folder=Items
 Seclet a Items
 You can tap a "Items" 
+---------------------------------------
+Folder=Audio
+Seclet a Audio
+You can tap a "Audio"
