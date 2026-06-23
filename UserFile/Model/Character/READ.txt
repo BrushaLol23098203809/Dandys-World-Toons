@@ -1,1 +1,2 @@
-You can Import .USDZ file 
+If you Import .USDZ or .OBJ File?
+Importing .USDZ or .OBJ files depends heavily on your software and goals. .USDZ is Learn DWTM Web format (bundled with textures), while .OBJ is a universal, static-geometry format.
