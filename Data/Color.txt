@@ -10,7 +10,7 @@ Background upper & lower
 84,84,84
 
 bone/frame manipulation upper & lower
-100,50,50
+99,50,50
 40,20,20
 
 frame manipulation upper & lower
