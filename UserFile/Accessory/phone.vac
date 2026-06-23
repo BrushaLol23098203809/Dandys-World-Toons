@@ -1,23 +1,22 @@
-ネル用携帯
+Mobile phone for Nell
 keitai.x
 1.0
 0.6,-1.9,-0.3
 0.0,0.0,0.0
-左足
+left foot
 0
 
 
-// MikuMikuDance用アクセサリファイル
-// 以下コメント
+// DandysWorldToonsMaker Accessory files
+// Comment below
 
-1行目：アクセサリの名前(任意)
-2行目：アクセサリのｘファイル
-3行目：拡大率
-4行目：位置(x,y,z)
-5行目：回転角(x,y,z)
-6行目：ボーン名(アクセサリはこのボーンの動きに従う)
+Line 1: Accessory name (optional)
+Line 2: Accessory's x-file
+Line 3: Scaling level
+Line 4: Position (x, y, z)
+Line 5: Rotation angle (x, y, z)
+Line 6: Bone name (the accessory follows the movement of this bone)
 
-アクセサリは標準のｘファイルです。
-メタセコか何かで作ればアクセサリを自作できます。
-MikuMikuDanceでアクセサリを読み込んで、拡大率・位置・回転角を
-試行錯誤で設定してやって下さい。
+Accessories are standard .x files.
+You can create your own accessories using Metasequoia or something similar.
+DandysWorldToonsMaker Then, load the accessory and try setting the scaling, position, and rotation angle through trial and error.
