@@ -1,8 +1,11 @@
 Folder=Character
-Seclet a Character Folder
+Seclet a Character
 You can tap a "Character" 
 ---------------------------------------
 Folder=Emoties
 Seclet a Emoties Folder
 You can tap a "Emoties"
 ---------------------------------------
+Folder=Items
+Seclet a Items
+You can tap a "Items" 
