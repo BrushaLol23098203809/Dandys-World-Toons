@@ -1,0 +1,12 @@
+using System;
+
+namespace DandysWorldToonsMaker
+{
+    public class MyFunctions
+    {
+        public static void HelloWorld()
+        {
+            Console.WriteLine("Hello from your DWTM file!");
+        }
+    }
+}
