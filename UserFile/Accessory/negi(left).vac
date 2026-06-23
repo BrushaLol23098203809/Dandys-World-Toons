@@ -1,22 +1,20 @@
-ネギ(左手)
+Medkit (Left Hand)
 negi.x
 1.0
 0.5,-1.0,0.0
 0.0,0.0,3.14
-左手首
+Left Wrist
+// DandysWorldToonsMaker Accessory File
+// Comments Below
 
+Line 1: Accessory Name (Optional)
+Line 2: Accessory's x File
+Line 3: Scaling
+Line 4: Position (x,y,z)
+Line 5: Rotation Angle (x,y,z)
+Line 6: Bone Name (The accessory follows the movement of this bone)
 
-// MikuMikuDance用アクセサリファイル
-// 以下コメント
+The accessory is a standard x file.
 
-1行目：アクセサリの名前(任意)
-2行目：アクセサリのｘファイル
-3行目：拡大率
-4行目：位置(x,y,z)
-5行目：回転角(x,y,z)
-6行目：ボーン名(アクセサリはこのボーンの動きに従う)
-
-アクセサリは標準のｘファイルです。
-メタセコか何かで作ればアクセサリを自作できます。
-MikuMikuDanceでアクセサリを読み込んで、拡大率・位置・回転角を
-試行錯誤で設定してやって下さい。
+You can create your own accessories using Metasequoia or something similar.
+Load the accessory into DandysWorldToonsMaker and try setting the scaling, position, and rotation angle through trial and error.
