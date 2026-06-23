@@ -1,0 +1,30 @@
+- Name: Dandy's World Toons Maker
+- Image=IconLogo.bmp
+- Imported Data 
+- Imported Data/toon01.bmp
+- Imported Data/toon02.bmp
+- Imported Data/toon03.bmp
+- Imported Data/toon04.bmp
+- Imported Data/toon05.bmp
+- Imported Data/toon06.bmp
+- Imported Data/toon07.bmp
+- Imported Data/toon08.bmp
+- Imported Data/toon09.bmp
+- Imported Data/toon10.bmp
+- Imported Data/Color.txt
+- Imported Data/DWTMxShow.dll
+- Imported Data/DWTMconfig.ini
+- Imported UserFile 
+- Imported UserFile/Accessory
+- Imported UserFile/Audio
+- Imported UserFile/BackGround
+- Imported UserFile/Items
+- Imported UserFile/Logo
+- Imported UserFile/Model
+- Imported UserFile/Pose
+- Imported UserFile/Motion
+- Imported UserFile/Sample(All star).pmm
+- Imported UserFile/Vsq
+- Imported UserFile/Wave
+- Imported UserFile/sample(Follow camera).pmm
+- Imported UserFile/sample.pmm
