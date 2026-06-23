@@ -1,5 +1,8 @@
+Folder=Character
 Seclet a Character Folder
 You can tap a "Character" 
 ---------------------------------------
+Folder=Emoties
 Seclet a Emoties Folder
 You can tap a "Emoties"
+---------------------------------------
